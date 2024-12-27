@@ -1,6 +1,6 @@
 import { registerRootComponent } from 'expo';
 
-import App from './App';
+import login_page from './login_page';
 
 
-registerRootComponent(App);
+registerRootComponent(login_page);
